@@ -7,7 +7,7 @@ use App\Models\Department;
 use App\Models\Counter;
 use App\Models\Queue;
 use Carbon\Carbon;
-// teste
+// pego carai
 class CallRepository
 {
     public function getUsers()
