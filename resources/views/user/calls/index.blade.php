@@ -166,7 +166,7 @@
 	
 @endsection
 
-<!--*****************IMPRIMIR SENHA*****************-->
+<!--*****************IMPRIMIR SENHAddd*****************-->
 @section('print')
     @if(session()->has('department_name'))
         <style>#printarea{ display:none; text-align:center} @media print{#loader-wrapper,header,#main,footer,#toast-container{display:none}#printarea{display:block;}}@page{margin:0}</style>
